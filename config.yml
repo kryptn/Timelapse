@@ -1,0 +1,5 @@
+s3_bucket_name: 'rpilapse'
+pantry_filename: 'db.pk'
+camera:
+    - iso: 200
+
